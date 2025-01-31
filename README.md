@@ -8,4 +8,4 @@ It should also work on PC without problems, but I still recommend the original f
 
 # How to Install the patch
 
-Simply replace the files in the mod´s folder with this one
+Simply replace the original shaders files in the mod´s folder with these ones.
